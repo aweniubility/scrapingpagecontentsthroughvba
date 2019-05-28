@@ -1,2 +1,2 @@
 # vba
-many library under vba of excel
+many libraries under vba of excel
